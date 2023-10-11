@@ -1,0 +1,7 @@
+CSS
+-CSS Pseudoclass
+-syntax
+-selector:Pseudo-class{to provide special styles to html elements like hovering
+    property:value;
+}
+12.media queries:to make responsive website
